@@ -25,6 +25,7 @@
     "url": "https://github.com/5t3ph/smol-11ty-starter/issues"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "axios": "^1.5.1"
   }
 }
